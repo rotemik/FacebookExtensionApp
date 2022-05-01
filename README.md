@@ -6,7 +6,7 @@
 - Developed with another student as part of Applicative programming using Design Patterns and C# 3.0 course at college.
 
 ## Credits
-This project was made by Liat Matzov ([liat92](https://github.com/liat92)) and Rotem Tsarfati ([rotemik](https://github.com/rotemik)) .
+This project was made by Rotem Tsarfati ([rotemik](https://github.com/rotemik)) and Liat Matzov ([liat92](https://github.com/liat92)).
 
 ## App main features
 
@@ -37,6 +37,3 @@ Users will also be shown a breakdown of the criteria used to select that person 
 
 ### Soulmate Founder
 ![Soulmate Founder](/Screenshots/SoulmateFounder.PNG)
-
-
-# FacebookExtensionApp
